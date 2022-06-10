@@ -70,4 +70,27 @@ luego de esto podemos ingresar a nuestro navegador a la ruta "localhost:8080" y 
 Recuerde tambien instalar el Access-Control-Allow-Origin en su navegador https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=es para poder visualizar la pagina
 
 
+Alli podremos visualizar la pagina
+
+![image](https://user-images.githubusercontent.com/81629876/172971720-76d9932e-a12c-4cc6-bb21-32ed1a1e88aa.png)
+
+
+En Suba tendremos nuestro formulario de subida
+
+![image](https://user-images.githubusercontent.com/81629876/172971852-2352663c-7514-46dc-bbba-fdd442e91b6e.png)
+![image](https://user-images.githubusercontent.com/81629876/172971969-50a818ff-448b-42ce-9b46-1f2f129004f0.png)
+
+
+Actualmente no soporta imagenes, solo el nombre de la imagen (recuerde habilitar CORS)
+
+Y en Baja podremos darle de baja a un producto por id
+
+![image](https://user-images.githubusercontent.com/81629876/172972018-9c477f37-073d-4791-b64c-3c6171e8c3d2.png)
+
+![image](https://user-images.githubusercontent.com/81629876/172972042-5b74c386-39a5-4d77-ade2-3b457a61a063.png)
+
+Alli podremos visualizar que el producto se ha subido y se dado de baja
+
+
+
 
