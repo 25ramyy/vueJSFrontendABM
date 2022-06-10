@@ -87,7 +87,8 @@ Y en Baja podremos darle de baja a un producto por id
 
 ![image](https://user-images.githubusercontent.com/81629876/172972018-9c477f37-073d-4791-b64c-3c6171e8c3d2.png)
 
-![image](https://user-images.githubusercontent.com/81629876/172972042-5b74c386-39a5-4d77-ade2-3b457a61a063.png)
+![image](https://user-images.githubusercontent.com/81629876/172972143-a6bff808-2975-4d02-9ec3-72898933ff15.png)
+
 
 Alli podremos visualizar que el producto se ha subido y se dado de baja
 
